@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_about">Image view</string>
+    <string name="main_activity_heading">Threading App</string>
+    <string name="main_activity_paragraph"> Welcome to a short demo on how to download a image, and show it using AsyncTask</string>
+    <string name="image_activity_title">Image view</string>
+    <string name="image_activity_heading">Image view</string>
+    <string name="Image_activity_button">Fetch Image</string>
+    <string name="image_activity_paragraph">Click the button below to start a thread that will go fetch a image from a url</string>
+    <string name="activity_about_success_message">Omg</string>
+    <string name="url">http://cdn2.ubergizmo.com/wp-content/uploads/2015/05/android-logo.jpg</string>
+</resources>
